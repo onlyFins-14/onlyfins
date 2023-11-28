@@ -1,0 +1,5 @@
+blynklib
+numpy
+opencv-python
+ultralytics
+urllib3
