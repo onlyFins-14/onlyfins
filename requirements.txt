@@ -50,3 +50,4 @@ typing_extensions
 tzdata
 ultralytics
 urllib3
+opencv-python-headless
